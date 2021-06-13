@@ -1,3 +1,3 @@
 # What is REST API?
 
-[Represetational State Transfer]
+`Represetational State Transfer`
